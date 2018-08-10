@@ -2,7 +2,7 @@
 
 Project Details: A simple and basic website on the organizations of Ruet has been created with the help of HTML, CSS, JavaScript and PHP. Basic purpose behind this project was to learn how to deal with web development and make a step to web engineering. 
 
-Features:  The submitted website contains these features
+The submitted website contains these features:
 
 >>Information on the topics related to the specific organizations 
 
@@ -16,7 +16,7 @@ Features:  The submitted website contains these features
 
 
 
-Future Plan:  A few steps will be included in future. The website will contain:
+A few steps will be included in future. The website will contain:
 
 >>A complete blog
 
